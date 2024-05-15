@@ -16,4 +16,6 @@ Nesse projeto disponibiliza-se a descrição de hardware de processador utilizan
 
 1. Avanço de Dados;
 2. Lógica de Parada;
-3. Flush de controle. 
+3. Flush de controle.
+
+EDAplayground simulation: https://edaplayground.com/x/mV5v
